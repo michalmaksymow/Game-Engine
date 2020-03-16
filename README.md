@@ -1,2 +1,2 @@
-# Game-Engine
-Crown game engine
+# Crown Engine
+Open source game engine based on Hazel 
