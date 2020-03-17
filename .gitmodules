@@ -1,0 +1,3 @@
+[submodule "Crown/vendor/spdlog"]
+	path = Crown/vendor/spdlog
+	url = https://github.com/gabime/spdlog
