@@ -1,6 +1,5 @@
 workspace "Crown"
  architecture "x64"
-
  configurations
  {
   "Debug",

@@ -5,6 +5,7 @@ namespace Crown {
 
 	class CROWN_API Application
 	{
+
 	public:
 		Application();
 		virtual ~Application();

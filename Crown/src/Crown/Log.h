@@ -33,5 +33,3 @@ namespace Crown {
 #define CR_CLIENT_WARN(...)   ::Crown::Log::GetClientLogger()->warn(__VA_ARGS__)
 #define CR_CLIENT_INFO(...)   ::Crown::Log::GetClientLogger()->info(__VA_ARGS__)
 #define CR_CLIENT_TRACE(...)  ::Crown::Log::GetClientLogger()->trace(__VA_ARGS__)
-
-

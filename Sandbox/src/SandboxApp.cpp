@@ -1,16 +1,14 @@
 #include "Crown.h"
 
-class Sandbox : public Crown::Application
-{ 
+class Sandbox : public Crown::Application {
+
 public:
 	Sandbox()
 	{
-
 	}
-
+	
 	~Sandbox()
 	{
-
 	}
 };
 
